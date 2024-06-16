@@ -101,6 +101,7 @@ body {
   position: absolute;
   right: 35px;
   color: aliceblue;
+  top: 50px;
 }
 
 .logout-link {
